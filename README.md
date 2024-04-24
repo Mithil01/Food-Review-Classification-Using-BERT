@@ -22,3 +22,6 @@ This repository contains a sentiment analysis project that leverages the BERT (B
 - sentence-piece
 
 ### EDA
+
+Training label count distribution 
+![Image Alt Text](bert_img1.png)
