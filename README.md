@@ -23,5 +23,5 @@ This repository contains a sentiment analysis project that leverages the BERT (B
 
 ### EDA
 
-Training label count distribution 
+ - Training label count distribution 
 ![Image Alt Text](bert_img1.png)
